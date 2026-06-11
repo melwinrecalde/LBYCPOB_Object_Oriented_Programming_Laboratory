@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/Student.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/IDVerifier.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/ReportPrinter.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/GradeConstants.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/GradeCalculator.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/GradeTrackerApp.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/StudentRepository.java
+    visible: true
+    learner_created: false
+  - name: src/ph/edu/dlsu/lbycpob/StudentInputHandler.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

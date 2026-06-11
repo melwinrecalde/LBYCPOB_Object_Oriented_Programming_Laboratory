@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Square Tests:" tests="20" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.824Z" hostname="V310PC27" time="0.008">
+  <properties/>
+  <testcase name="toString contains the color value" classname="SquareTest" time="0.001"/>
+  <testcase name="getColor returns the color set at construction" classname="SquareTest" time="0.001"/>
+  <testcase name="toString is not null or empty" classname="SquareTest" time="0.0"/>
+  <testcase name="Side survives multiple consecutive setSide calls" classname="SquareTest" time="0.0"/>
+  <testcase name="getSide returns the current side" classname="SquareTest" time="0.0"/>
+  <testcase name="toString contains the side value" classname="SquareTest" time="0.0"/>
+  <testcase name="setSide to a fractional value is stored correctly" classname="SquareTest" time="0.0"/>
+  <testcase name="Single-arg constructor defaults color to black via Rectangle" classname="SquareTest" time="0.0"/>
+  <testcase name="setSide to zero is accepted by the setter" classname="SquareTest" time="0.0"/>
+  <testcase name="setSide to a very large value is stored correctly" classname="SquareTest" time="0.0"/>
+  <testcase name="Single-arg constructor passes side as width to Rectangle" classname="SquareTest" time="0.001"/>
+  <testcase name="Two-arg constructor sets color correctly" classname="SquareTest" time="0.0"/>
+  <testcase name="Two-arg constructor passes side as width to Rectangle" classname="SquareTest" time="0.0"/>
+  <testcase name="Single-arg constructor passes side as height to Rectangle" classname="SquareTest" time="0.001"/>
+  <testcase name="Single-arg constructor sets side correctly" classname="SquareTest" time="0.0"/>
+  <testcase name="Square is a subclass of Rectangle" classname="SquareTest" time="0.0"/>
+  <testcase name="Square is a subclass of Shape" classname="SquareTest" time="0.0"/>
+  <testcase name="setSide updates the side" classname="SquareTest" time="0.0"/>
+  <testcase name="Two-arg constructor passes side as height to Rectangle" classname="SquareTest" time="0.001"/>
+  <testcase name="Two-arg constructor sets side correctly" classname="SquareTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

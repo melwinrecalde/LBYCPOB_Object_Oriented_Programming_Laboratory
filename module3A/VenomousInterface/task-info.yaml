@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Venomous.java
+    visible: true
+    learner_created: false
+  - name: src/Spider.java
+    visible: true
+    learner_created: false
+  - name: src/Scorpion.java
+    visible: true
+    learner_created: false
+  - name: test/ScorpionTest.java
+    visible: false
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SpiderTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

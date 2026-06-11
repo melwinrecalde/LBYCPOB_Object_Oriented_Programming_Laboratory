@@ -1,0 +1,12 @@
+custom_name: "Module 2 Introduction to Objects, Classes, and UML"
+content:
+  - SquareClass
+  - RectangleClass
+  - CircleClass
+  - EllipseClass
+  - CubeClass
+  - CuboidClass
+  - SphereClass
+  - ConeClass
+  - CylinderClass
+  - OOPGradeTrackerApp

@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/Animal.java
+    visible: true
+    learner_created: false
+  - name: src/Mammal.java
+    visible: true
+    learner_created: false
+  - name: src/Bird.java
+    visible: true
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/BirdTest.java
+    visible: false
+    learner_created: false
+  - name: test/MammalTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

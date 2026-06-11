@@ -1,0 +1,27 @@
+type: marketplace
+title: LBYCPOB Object Oriented Programming Laboratory
+language: English
+summary: "Object Oriented Programming (OOP) Laboratory Coding Tasks is a repository\
+  \ that provides the coding activities in LBYCPOB (Object Oriented Programming Laboratory).\
+  \ This course introduces OOP concepts and techniques using the Java platform. Topics\
+  \ primarily include classes and objects, abstraction, encapsulation, inheritance,\
+  \ and polymorphism. Students will also learn to utilize basic Unified Modeling Language\
+  \ (UML) diagrams, implement testing and debugging techniques, handle exceptions\
+  \ and events, and building simple graphical user interfaces (GUIs). The course emphasizes\
+  \ practical application aligned with modern software engineering practices."
+programming_language: Java
+content:
+  - module1
+  - module2
+  - module3A
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
+  - name: gradle.properties
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_25
+vendor:
+  name: Melvin Cabatuan
+yaml_version: 5

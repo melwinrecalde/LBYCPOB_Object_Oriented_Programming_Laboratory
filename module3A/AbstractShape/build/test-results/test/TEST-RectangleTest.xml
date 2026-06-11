@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Rectangle Tests:" tests="24" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.797Z" hostname="V310PC27" time="0.011">
+  <properties/>
+  <testcase name="Three-arg constructor sets color correctly" classname="RectangleTest" time="0.001"/>
+  <testcase name="Three-arg constructor sets width correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="Square special case: equal width and height are stored correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="toString contains the color value" classname="RectangleTest" time="0.0"/>
+  <testcase name="toString contains the width value" classname="RectangleTest" time="0.0"/>
+  <testcase name="setWidth to zero is accepted by the setter" classname="RectangleTest" time="0.0"/>
+  <testcase name="getColor returns the color set at construction" classname="RectangleTest" time="0.001"/>
+  <testcase name="getWidth returns the current width" classname="RectangleTest" time="0.0"/>
+  <testcase name="toString is not null or empty" classname="RectangleTest" time="0.0"/>
+  <testcase name="Width survives multiple consecutive setWidth calls" classname="RectangleTest" time="0.0"/>
+  <testcase name="Three-arg constructor sets height correctly" classname="RectangleTest" time="0.001"/>
+  <testcase name="toString contains the height value" classname="RectangleTest" time="0.0"/>
+  <testcase name="setHeight to zero is accepted by the setter" classname="RectangleTest" time="0.0"/>
+  <testcase name="setHeight to a very large value is stored correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="setWidth to a very large value is stored correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets width correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="setHeight updates the height" classname="RectangleTest" time="0.0"/>
+  <testcase name="getHeight returns the current height" classname="RectangleTest" time="0.0"/>
+  <testcase name="Two-arg constructor defaults color to black" classname="RectangleTest" time="0.0"/>
+  <testcase name="Rectangle is a subclass of Shape" classname="RectangleTest" time="0.0"/>
+  <testcase name="setWidth and setHeight are independent of each other" classname="RectangleTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets height correctly" classname="RectangleTest" time="0.0"/>
+  <testcase name="Height survives multiple consecutive setHeight calls" classname="RectangleTest" time="0.001"/>
+  <testcase name="setWidth updates the width" classname="RectangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

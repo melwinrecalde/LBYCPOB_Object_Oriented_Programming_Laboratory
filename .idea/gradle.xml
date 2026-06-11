@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/module1/ArithmeticOperators" />
+            <option value="$PROJECT_DIR$/module1/Arrays" />
+            <option value="$PROJECT_DIR$/module1/BasicDataTypes" />
+            <option value="$PROJECT_DIR$/module1/CapstoneExtension" />
+            <option value="$PROJECT_DIR$/module1/ComparisonAndLogicOperators" />
+            <option value="$PROJECT_DIR$/module1/ConsoleInput" />
+            <option value="$PROJECT_DIR$/module1/ConsoleOutput" />
+            <option value="$PROJECT_DIR$/module1/HelloWorld" />
+            <option value="$PROJECT_DIR$/module1/Loops" />
+            <option value="$PROJECT_DIR$/module1/Methods" />
+            <option value="$PROJECT_DIR$/module1/ModuleCapstone" />
+            <option value="$PROJECT_DIR$/module1/Selection" />
+            <option value="$PROJECT_DIR$/module1/Strings" />
+            <option value="$PROJECT_DIR$/module2/CircleClass" />
+            <option value="$PROJECT_DIR$/module2/ConeClass" />
+            <option value="$PROJECT_DIR$/module2/CubeClass" />
+            <option value="$PROJECT_DIR$/module2/CuboidClass" />
+            <option value="$PROJECT_DIR$/module2/CylinderClass" />
+            <option value="$PROJECT_DIR$/module2/EllipseClass" />
+            <option value="$PROJECT_DIR$/module2/OOPGradeTrackerApp" />
+            <option value="$PROJECT_DIR$/module2/RectangleClass" />
+            <option value="$PROJECT_DIR$/module2/SphereClass" />
+            <option value="$PROJECT_DIR$/module2/SquareClass" />
+            <option value="$PROJECT_DIR$/module3A/AbstractAnimal" />
+            <option value="$PROJECT_DIR$/module3A/AbstractShape" />
+            <option value="$PROJECT_DIR$/module3A/AggregationExample" />
+            <option value="$PROJECT_DIR$/module3A/AssociationExample" />
+            <option value="$PROJECT_DIR$/module3A/CompositionExample" />
+            <option value="$PROJECT_DIR$/module3A/DependencyExample" />
+            <option value="$PROJECT_DIR$/module3A/InheritanceExample" />
+            <option value="$PROJECT_DIR$/module3A/MeasurableInterface" />
+            <option value="$PROJECT_DIR$/module3A/RealizationExample" />
+            <option value="$PROJECT_DIR$/module3A/VenomousInterface" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

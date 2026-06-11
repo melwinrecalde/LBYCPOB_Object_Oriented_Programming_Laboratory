@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Circle Tests:" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.693Z" hostname="V310PC27" time="0.033">
+  <properties/>
+  <testcase name="toString contains the color value" classname="CircleTest" time="0.013"/>
+  <testcase name="getColor returns the color set at construction" classname="CircleTest" time="0.001"/>
+  <testcase name="toString is not null or empty" classname="CircleTest" time="0.001"/>
+  <testcase name="setRadius to a very large value is stored correctly" classname="CircleTest" time="0.0"/>
+  <testcase name="toString contains the radius value" classname="CircleTest" time="0.001"/>
+  <testcase name="Single-arg constructor defaults color to white" classname="CircleTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets color correctly" classname="CircleTest" time="0.0"/>
+  <testcase name="Single-arg constructor sets radius correctly" classname="CircleTest" time="0.0"/>
+  <testcase name="setRadius updates the radius" classname="CircleTest" time="0.0"/>
+  <testcase name="Radius survives multiple consecutive setRadius calls" classname="CircleTest" time="0.0"/>
+  <testcase name="getRadius returns the current radius" classname="CircleTest" time="0.0"/>
+  <testcase name="Circle is a subclass of Shape" classname="CircleTest" time="0.001"/>
+  <testcase name="setRadius to zero is accepted by the setter" classname="CircleTest" time="0.001"/>
+  <testcase name="Two-arg constructor sets radius correctly" classname="CircleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,55 @@
+type: edu
+files:
+  - name: test/CircleTest.java
+    visible: false
+    learner_created: false
+  - name: src/Shape.java
+    visible: true
+    learner_created: false
+  - name: src/Circle.java
+    visible: true
+    learner_created: false
+  - name: src/Rectangle.java
+    visible: true
+    learner_created: false
+  - name: src/Ellipse.java
+    visible: true
+    learner_created: false
+  - name: src/Square.java
+    visible: true
+    learner_created: false
+  - name: src/Sphere.java
+    visible: true
+    learner_created: false
+  - name: src/Cylinder.java
+    visible: true
+    learner_created: false
+  - name: src/Cone.java
+    visible: true
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ConeTest.java
+    visible: false
+    learner_created: false
+  - name: test/CylinderTest.java
+    visible: false
+    learner_created: false
+  - name: test/EllipseTest.java
+    visible: false
+    learner_created: false
+  - name: test/RectangleTest.java
+    visible: false
+    learner_created: false
+  - name: test/SphereTest.java
+    visible: false
+    learner_created: false
+  - name: test/SquareTest.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 11 Jun 2026 07:56:42 UTC"
+record: -1

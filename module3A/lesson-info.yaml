@@ -1,0 +1,12 @@
+custom_name: "Module 3 Core OOP Pillars (Part I: Structure & Relationships)"
+content:
+  - AbstractShape
+  - MeasurableInterface
+  - AbstractAnimal
+  - VenomousInterface
+  - AssociationExample
+  - AggregationExample
+  - CompositionExample
+  - InheritanceExample
+  - DependencyExample
+  - RealizationExample

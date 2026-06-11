@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cylinder Tests:" tests="23" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.764Z" hostname="V310PC27" time="0.015">
+  <properties/>
+  <testcase name="Three-arg constructor sets color correctly" classname="CylinderTest" time="0.001"/>
+  <testcase name="toString contains the color value" classname="CylinderTest" time="0.0"/>
+  <testcase name="getColor returns the color set at construction" classname="CylinderTest" time="0.0"/>
+  <testcase name="toString is not null or empty" classname="CylinderTest" time="0.001"/>
+  <testcase name="setRadius and setHeight are independent of each other" classname="CylinderTest" time="0.0"/>
+  <testcase name="setRadius to a very large value is stored correctly" classname="CylinderTest" time="0.001"/>
+  <testcase name="Three-arg constructor sets height correctly" classname="CylinderTest" time="0.0"/>
+  <testcase name="toString contains the height value" classname="CylinderTest" time="0.001"/>
+  <testcase name="Three-arg constructor sets radius correctly" classname="CylinderTest" time="0.0"/>
+  <testcase name="setHeight to zero is accepted by the setter" classname="CylinderTest" time="0.001"/>
+  <testcase name="toString contains the radius value" classname="CylinderTest" time="0.0"/>
+  <testcase name="setHeight to a very large value is stored correctly" classname="CylinderTest" time="0.0"/>
+  <testcase name="setHeight updates the height" classname="CylinderTest" time="0.0"/>
+  <testcase name="getHeight returns the current height" classname="CylinderTest" time="0.001"/>
+  <testcase name="setRadius updates the radius" classname="CylinderTest" time="0.001"/>
+  <testcase name="Radius survives multiple consecutive setRadius calls" classname="CylinderTest" time="0.0"/>
+  <testcase name="Two-arg constructor defaults color to white" classname="CylinderTest" time="0.0"/>
+  <testcase name="getRadius returns the current radius" classname="CylinderTest" time="0.001"/>
+  <testcase name="Cylinder is a subclass of Shape" classname="CylinderTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets height correctly" classname="CylinderTest" time="0.001"/>
+  <testcase name="setRadius to zero is accepted by the setter" classname="CylinderTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets radius correctly" classname="CylinderTest" time="0.0"/>
+  <testcase name="Height survives multiple consecutive setHeight calls" classname="CylinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

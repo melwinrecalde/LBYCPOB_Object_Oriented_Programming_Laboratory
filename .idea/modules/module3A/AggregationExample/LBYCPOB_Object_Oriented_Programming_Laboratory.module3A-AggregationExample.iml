@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":module3A-AggregationExample" external.linked.project.path="$MODULE_DIR$/../../../../module3A/AggregationExample" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="LBYCPOB_Object_Oriented_Programming_Laboratory" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../module3A/AggregationExample">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../module3A/AggregationExample/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../module3A/AggregationExample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../module3A/AggregationExample/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

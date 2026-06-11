@@ -1,0 +1,15 @@
+custom_name: Module 1 Java Foundations & Procedural Programming
+content:
+  - HelloWorld
+  - BasicDataTypes
+  - ArithmeticOperators
+  - ComparisonAndLogicOperators
+  - ConsoleOutput
+  - ConsoleInput
+  - Selection
+  - Loops
+  - Methods
+  - Arrays
+  - Strings
+  - ModuleCapstone
+  - CapstoneExtension
