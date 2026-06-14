@@ -1,7 +1,11 @@
-// Example: Circle.java
 public class Circle extends Shape implements Measurable2D {
 
     private double radius;
+
+    public Circle() {
+        super("white");
+        this.radius = 0.0;
+    }
 
     public Circle(double radius) {
         super("white");
@@ -21,6 +25,10 @@ public class Circle extends Shape implements Measurable2D {
         this.radius = radius;
     }
 
+    @Override
+    public double calculatePerimeter() {
+        return 2 * Math.PI * radius;
+    }
 
     @Override
     public double calculateArea() {
@@ -28,14 +36,10 @@ public class Circle extends Shape implements Measurable2D {
     }
 
     @Override
-    public double calculatePerimeter() {
-        return 2 * Math.PI * radius;
-    }
-
     public String toString() {
-        return "Circle | color: " + color
-                + " | radius: "     + radius
-                + " | area: "       + String.format("%.2f", calculateArea())
-                + " | perimeter: "  + String.format("%.2f", calculatePerimeter());
+        return "Circle | color: " + color +
+                " | radius: " + radius +
+                " | area: " + String.format("%.2f", calculateArea()) +
+                " | perimeter: " + String.format("%.2f", calculatePerimeter());
     }
 }

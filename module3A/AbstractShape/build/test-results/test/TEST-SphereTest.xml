@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Sphere Tests:" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.810Z" hostname="V310PC27" time="0.011">
+<testsuite name="Sphere Tests:" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-06-13T10:43:56.886Z" hostname="DESKTOP-57LBCVM" time="0.04">
   <properties/>
   <testcase name="toString contains the color value" classname="SphereTest" time="0.001"/>
-  <testcase name="getColor returns the color set at construction" classname="SphereTest" time="0.0"/>
-  <testcase name="toString is not null or empty" classname="SphereTest" time="0.0"/>
-  <testcase name="setRadius to a very large value is stored correctly" classname="SphereTest" time="0.001"/>
+  <testcase name="getColor returns the color set at construction" classname="SphereTest" time="0.008"/>
+  <testcase name="toString is not null or empty" classname="SphereTest" time="0.002"/>
+  <testcase name="setRadius to a very large value is stored correctly" classname="SphereTest" time="0.006"/>
   <testcase name="toString contains the radius value" classname="SphereTest" time="0.0"/>
-  <testcase name="Single-arg constructor defaults color to white" classname="SphereTest" time="0.001"/>
-  <testcase name="Two-arg constructor sets color correctly" classname="SphereTest" time="0.001"/>
+  <testcase name="Single-arg constructor defaults color to white" classname="SphereTest" time="0.0"/>
+  <testcase name="Two-arg constructor sets color correctly" classname="SphereTest" time="0.0"/>
   <testcase name="setRadius to a fractional value is stored correctly" classname="SphereTest" time="0.001"/>
-  <testcase name="Single-arg constructor sets radius correctly" classname="SphereTest" time="0.0"/>
-  <testcase name="setRadius updates the radius" classname="SphereTest" time="0.001"/>
+  <testcase name="Single-arg constructor sets radius correctly" classname="SphereTest" time="0.001"/>
+  <testcase name="setRadius updates the radius" classname="SphereTest" time="0.0"/>
   <testcase name="Radius survives multiple consecutive setRadius calls" classname="SphereTest" time="0.0"/>
   <testcase name="getRadius returns the current radius" classname="SphereTest" time="0.0"/>
   <testcase name="Sphere is a subclass of Shape" classname="SphereTest" time="0.001"/>
   <testcase name="setRadius to zero is accepted by the setter" classname="SphereTest" time="0.001"/>
-  <testcase name="Two-arg constructor sets radius correctly" classname="SphereTest" time="0.001"/>
+  <testcase name="Two-arg constructor sets radius correctly" classname="SphereTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

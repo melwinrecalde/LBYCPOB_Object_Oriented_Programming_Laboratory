@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Ellipse Tests:" tests="24" skipped="0" failures="0" errors="0" timestamp="2026-06-11T07:56:41.782Z" hostname="V310PC27" time="0.013">
+<testsuite name="Ellipse Tests:" tests="24" skipped="0" failures="0" errors="0" timestamp="2026-06-13T10:43:56.706Z" hostname="DESKTOP-57LBCVM" time="0.039">
   <properties/>
-  <testcase name="Three-arg constructor sets color correctly" classname="EllipseTest" time="0.001"/>
-  <testcase name="toString contains the color value" classname="EllipseTest" time="0.001"/>
-  <testcase name="getColor returns the color set at construction" classname="EllipseTest" time="0.001"/>
-  <testcase name="toString is not null or empty" classname="EllipseTest" time="0.0"/>
+  <testcase name="Three-arg constructor sets color correctly" classname="EllipseTest" time="0.006"/>
+  <testcase name="toString contains the color value" classname="EllipseTest" time="0.003"/>
+  <testcase name="getColor returns the color set at construction" classname="EllipseTest" time="0.0"/>
+  <testcase name="toString is not null or empty" classname="EllipseTest" time="0.001"/>
   <testcase name="setSemiMinor to zero is accepted by the setter" classname="EllipseTest" time="0.0"/>
-  <testcase name="Three-arg constructor sets semiMajor correctly" classname="EllipseTest" time="0.0"/>
-  <testcase name="Three-arg constructor sets semiMinor correctly" classname="EllipseTest" time="0.001"/>
-  <testcase name="setSemiMajor to zero is accepted by the setter" classname="EllipseTest" time="0.0"/>
-  <testcase name="Circle special case: semiMajor equals semiMinor is stored correctly" classname="EllipseTest" time="0.001"/>
-  <testcase name="getSemiMajor returns the current semiMajor" classname="EllipseTest" time="0.0"/>
+  <testcase name="Three-arg constructor sets semiMajor correctly" classname="EllipseTest" time="0.001"/>
+  <testcase name="Three-arg constructor sets semiMinor correctly" classname="EllipseTest" time="0.0"/>
+  <testcase name="setSemiMajor to zero is accepted by the setter" classname="EllipseTest" time="0.001"/>
+  <testcase name="Circle special case: semiMajor equals semiMinor is stored correctly" classname="EllipseTest" time="0.0"/>
+  <testcase name="getSemiMajor returns the current semiMajor" classname="EllipseTest" time="0.001"/>
   <testcase name="getSemiMinor returns the current semiMinor" classname="EllipseTest" time="0.0"/>
-  <testcase name="setSemiMinor to a very large value is stored correctly" classname="EllipseTest" time="0.001"/>
+  <testcase name="setSemiMinor to a very large value is stored correctly" classname="EllipseTest" time="0.0"/>
   <testcase name="Two-arg constructor sets semiMajor correctly" classname="EllipseTest" time="0.0"/>
   <testcase name="Two-arg constructor sets semiMinor correctly" classname="EllipseTest" time="0.0"/>
-  <testcase name="Two-arg constructor defaults color to white" classname="EllipseTest" time="0.0"/>
+  <testcase name="Two-arg constructor defaults color to white" classname="EllipseTest" time="0.001"/>
   <testcase name="Ellipse is a subclass of Shape" classname="EllipseTest" time="0.0"/>
-  <testcase name="setSemiMajor to a very large value is stored correctly" classname="EllipseTest" time="0.0"/>
+  <testcase name="setSemiMajor to a very large value is stored correctly" classname="EllipseTest" time="0.001"/>
   <testcase name="setSemiMajor and setSemiMinor are independent of each other" classname="EllipseTest" time="0.0"/>
   <testcase name="setSemiMajor updates the semiMajor" classname="EllipseTest" time="0.001"/>
-  <testcase name="setSemiMinor updates the semiMinor" classname="EllipseTest" time="0.0"/>
+  <testcase name="setSemiMinor updates the semiMinor" classname="EllipseTest" time="0.001"/>
   <testcase name="semiMajor survives multiple consecutive setSemiMajor calls" classname="EllipseTest" time="0.001"/>
   <testcase name="toString contains the semiMajor value" classname="EllipseTest" time="0.001"/>
-  <testcase name="toString contains the semiMinor value" classname="EllipseTest" time="0.0"/>
-  <testcase name="semiMinor survives multiple consecutive setSemiMinor calls" classname="EllipseTest" time="0.0"/>
+  <testcase name="toString contains the semiMinor value" classname="EllipseTest" time="0.002"/>
+  <testcase name="semiMinor survives multiple consecutive setSemiMinor calls" classname="EllipseTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -54,5 +54,8 @@ files:
   - name: test/SquareTest.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 13 Jun 2026 10:50:31 UTC"
 record: -1

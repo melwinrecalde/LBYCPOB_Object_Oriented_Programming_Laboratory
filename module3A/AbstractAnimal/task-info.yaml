@@ -18,5 +18,8 @@ files:
   - name: test/MammalTest.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 13 Jun 2026 10:55:13 UTC"
 record: -1

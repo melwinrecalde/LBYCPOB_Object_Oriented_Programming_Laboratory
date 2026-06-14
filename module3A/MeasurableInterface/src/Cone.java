@@ -1,8 +1,13 @@
-// Example: Cone.java
 public class Cone extends Shape implements Measurable3D {
 
     private double radius;
     private double height;
+
+    public Cone() {
+        super("white");
+        this.radius = 0.0;
+        this.height = 0.0;
+    }
 
     public Cone(double radius, double height) {
         super("white");
@@ -32,14 +37,10 @@ public class Cone extends Shape implements Measurable3D {
         this.height = height;
     }
 
-
-    private double slantHeight() {
-        return Math.sqrt(radius * radius + height * height);
-    }
-
     @Override
     public double calculateSurfaceArea() {
-        return Math.PI * radius * (radius + slantHeight());
+        double slantHeight = Math.sqrt(radius * radius + height * height);
+        return Math.PI * radius * (radius + slantHeight);
     }
 
     @Override
@@ -47,11 +48,12 @@ public class Cone extends Shape implements Measurable3D {
         return (1.0 / 3.0) * Math.PI * radius * radius * height;
     }
 
+    @Override
     public String toString() {
-        return "Cone | color: "         + color
-                + " | radius: "            + radius
-                + " | height: "            + height
-                + " | surface area: "      + String.format("%.2f", calculateSurfaceArea())
-                + " | volume: "            + String.format("%.2f", calculateVolume());
+        return "Cone | color: " + color +
+                " | radius: " + radius +
+                " | height: " + height +
+                " | surface area: " + String.format("%.2f", calculateSurfaceArea()) +
+                " | volume: " + String.format("%.2f", calculateVolume());
     }
 }
