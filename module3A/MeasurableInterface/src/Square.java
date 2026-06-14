@@ -5,6 +5,8 @@ public class Square extends Rectangle {
     public Square() {
         super();
         this.side = 0.0;
+        setWidth(0.0);
+        setHeight(0.0);
     }
 
     public Square(double side) {

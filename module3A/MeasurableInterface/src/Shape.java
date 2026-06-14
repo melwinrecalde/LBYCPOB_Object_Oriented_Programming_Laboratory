@@ -3,7 +3,7 @@ public abstract class Shape {
     protected String color;
 
     public Shape() {
-        this.color = "white";
+        this.color = "undefined";
     }
 
     public Shape(String color) {
